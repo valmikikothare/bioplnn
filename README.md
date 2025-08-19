@@ -1,3 +1,5 @@
+**Development for BioPlNN has moved to [FieteLab/torch-biopl-dev](https://github.com/FieteLab/torch-biopl-dev). For continued support, please use the version in that repository**
+
 # BioPlNN: Biologically Plausible Neural Network Package
 
 **BioPlNN** is a PyTorch package designed to bridge the gap between traditional Artificial Neural Networks (ANNs) and biologically-inspired models. It provides modules that allow researchers to:
